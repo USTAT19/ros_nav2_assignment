@@ -321,3 +321,5 @@ After following all steps:
 This assignment demonstrates the implementation of a full navigation pipeline using ROS2 Nav2. The robot successfully performs localization, path planning, and autonomous navigation within a simulated environment.
 
 The integration of Gazebo simulation and RViz visualization enables testing and validation of navigation algorithms without requiring physical hardware.
+
+![image_alt](https://github.com/USTAT19/ros_nav2_assignment/blob/932ba567c1d83e8fe4e53394aa2b76d94ae76580/Screenshot%202026-03-15%20014918.png)
