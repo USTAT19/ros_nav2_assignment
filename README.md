@@ -324,3 +324,4 @@ The integration of Gazebo simulation and RViz visualization enables testing and 
 
 ![image_alt](https://github.com/USTAT19/ros_nav2_assignment/blob/8cdfcc2bdf910aeeea7de19aefea872060ebe41d/Screenshot%202026-03-15%20015016.png)
 ![image_alt](https://github.com/USTAT19/ros_nav2_assignment/blob/19144726b863f4e5562a8063cd0185fa5a7c92cc/Screenshot%202026-03-15%20014940.png)
+![image_alt](https://github.com/USTAT19/ros_nav2_assignment/blob/19144726b863f4e5562a8063cd0185fa5a7c92cc/Screenshot%202026-03-15%20014918.png)
